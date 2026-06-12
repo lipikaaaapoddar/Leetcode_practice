@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0409-longest-palindrome) |
+| [3689-maximum-total-subarray-value-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3689-maximum-total-subarray-value-i) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2974-minimum-number-game) |
+| [3689-maximum-total-subarray-value-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
