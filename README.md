@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0860-lemonade-change) |
 | [1046-last-stone-weight](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1046-last-stone-weight) |
+| [1480-running-sum-of-1d-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
 | [2974-minimum-number-game](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2974-minimum-number-game) |
 | [3689-maximum-total-subarray-value-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
