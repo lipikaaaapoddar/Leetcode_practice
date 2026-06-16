@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0067-add-binary) |
 | [0409-longest-palindrome](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0409-longest-palindrome) |
+| [3612-process-string-with-special-operations-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3612-process-string-with-special-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0067-add-binary) |
 | [2974-minimum-number-game](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2974-minimum-number-game) |
+| [3612-process-string-with-special-operations-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
 |  |
 | ------- |
