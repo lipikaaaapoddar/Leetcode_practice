@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0860-lemonade-change) |
 | [1046-last-stone-weight](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1046-last-stone-weight) |
@@ -52,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
 | [2974-minimum-number-game](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1046-last-stone-weight) |
 | [2974-minimum-number-game](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2974-minimum-number-game) |
 ## Stack
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -109,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
