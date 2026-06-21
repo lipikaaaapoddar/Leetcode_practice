@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0409-longest-palindrome) |
 | [0763-partition-labels](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0763-partition-labels) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0067-add-binary) |
 | [0409-longest-palindrome](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0443-string-compression) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
 |  |
