@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0860-lemonade-change) |
+| [1833-maximum-ice-cream-bars](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3689-maximum-total-subarray-value-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3689-maximum-total-subarray-value-i) |
 ## Math
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2974-minimum-number-game](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2974-minimum-number-game) |
 | [3689-maximum-total-subarray-value-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3689-maximum-total-subarray-value-i) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
+| [1833-maximum-ice-cream-bars](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2974-minimum-number-game](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
