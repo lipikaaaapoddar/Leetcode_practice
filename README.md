@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0134-gas-station) |
+| [0209-minimum-size-subarray-sum](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -161,17 +162,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0658-find-k-closest-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
