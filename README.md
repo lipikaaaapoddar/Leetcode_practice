@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0948-bag-of-tokens) |
 | [1833-maximum-ice-cream-bars](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3689-maximum-total-subarray-value-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3689-maximum-total-subarray-value-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0948-bag-of-tokens) |
 | [1046-last-stone-weight](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1046-last-stone-weight) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0948-bag-of-tokens) |
 | [1833-maximum-ice-cream-bars](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0925-long-pressed-name) |
+| [0948-bag-of-tokens](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0948-bag-of-tokens) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
