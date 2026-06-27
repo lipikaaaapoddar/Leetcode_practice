@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Bit Manipulation
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0143-reorder-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
