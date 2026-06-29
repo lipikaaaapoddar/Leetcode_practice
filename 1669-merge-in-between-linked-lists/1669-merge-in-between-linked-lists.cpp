@@ -18,13 +18,13 @@ public:
             a_list = a_list->next;
             a--;
         }
-        while(b+1 !=0){
+        while(b >0){
             b_list = b_list->next;
             b--;
         }
         a_list->next = list2;
         while(list_2->next!= NULL) list_2= list_2->next;
-        list_2->next = b_list;
+        list_2->next = b_list->next;
         return list1;
     }
 };
