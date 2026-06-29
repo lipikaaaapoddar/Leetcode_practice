@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0067-add-binary) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2974-minimum-number-game](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2974-minimum-number-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
