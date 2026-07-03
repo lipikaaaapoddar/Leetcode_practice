@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0443-string-compression) |
 | [0763-partition-labels](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0925-long-pressed-name) |
 | [1189-maximum-number-of-balloons](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1189-maximum-number-of-balloons) |
 | [2390-removing-stars-from-a-string](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2974-minimum-number-game) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2487-remove-nodes-from-linked-list) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0925-long-pressed-name) |
