@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1669-merge-in-between-linked-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2487-remove-nodes-from-linked-list) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0925-long-pressed-name) |
 | [0948-bag-of-tokens](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0948-bag-of-tokens) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
