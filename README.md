@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0455-assign-cookies) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
