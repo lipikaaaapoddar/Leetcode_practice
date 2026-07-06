@@ -10,19 +10,32 @@
  */
 class Solution {
 public:
-    bool isPalindrome(ListNode* head) {
-        // brute force turn into array and then check palindrom using 2 pointer
-        vector<int> ans;
-        ListNode* temp = head;
-        while(temp!=NULL){
-            ans.push_back(temp->val);
-            temp=temp->next;
+    ListNode* reverse_l(ListNode*head){
+        ListNode* prev = NULL;
+        ListNode* curr = head;
+        while(curr !=NULL){
+            ListNode* next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr=next;
         }
-        int i =0 ; int j = ans.size()-1;
-        while(i<=j){
-            if(ans[i]!= ans[j]) return false;
-            i++;
-            j--;
+        return prev;
+    }
+
+    bool isPalindrome(ListNode* head) {
+        // optimal - find mid , reverse second half , compare first and second half
+        ListNode* mid = head; //slow pointer
+        ListNode* start = head; //fast pointer
+        while(start!=NULL && start->next!=NULL){
+            mid = mid->next;
+            start = start->next->next;
+        }
+        mid = reverse_l(mid);
+        start = head;
+        while(mid !=NULL){
+            if(start->val != mid->val) return false;
+            start = start->next;
+            mid = mid->next;
         }
         return true;
     }
