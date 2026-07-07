@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
