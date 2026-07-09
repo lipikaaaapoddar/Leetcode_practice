@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1544-make-the-string-great) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-merge-in-between-linked-lists](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0948-bag-of-tokens) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
