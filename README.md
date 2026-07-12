@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0409-longest-palindrome) |
 | [0575-distribute-candies](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0575-distribute-candies) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0283-move-zeroes) |
