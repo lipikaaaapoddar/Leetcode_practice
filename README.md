@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0925-long-pressed-name) |
 | [1189-maximum-number-of-balloons](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1544-make-the-string-great](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0948-bag-of-tokens) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1402-reducing-dishes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1402-reducing-dishes) |
 | [1833-maximum-ice-cream-bars](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
