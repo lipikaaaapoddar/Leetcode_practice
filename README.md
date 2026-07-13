@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0817-linked-list-components) |
 | [1189-maximum-number-of-balloons](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1544-make-the-string-great](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1544-make-the-string-great) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3612-process-string-with-special-operations-i) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0260-single-number-iii) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1402-reducing-dishes) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
