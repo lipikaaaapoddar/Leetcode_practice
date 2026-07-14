@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0948-bag-of-tokens) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1323-maximum-69-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1323-maximum-69-number) |
 | [1402-reducing-dishes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1402-reducing-dishes) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1323-maximum-69-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
