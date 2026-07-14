@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1402-reducing-dishes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1402-reducing-dishes) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0948-bag-of-tokens) |
 | [1402-reducing-dishes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1402-reducing-dishes) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -399,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2778-sum-of-squares-of-special-elements) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
