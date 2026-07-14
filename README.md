@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1544-make-the-string-great) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
+| [2864-maximum-odd-binary-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2864-maximum-odd-binary-number) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2864-maximum-odd-binary-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2864-maximum-odd-binary-number) |
 | [3689-maximum-total-subarray-value-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3689-maximum-total-subarray-value-i) |
 ## Math
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2864-maximum-odd-binary-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2864-maximum-odd-binary-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
