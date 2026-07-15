@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
