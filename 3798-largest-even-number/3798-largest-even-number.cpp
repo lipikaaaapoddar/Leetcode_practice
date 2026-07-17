@@ -1,10 +1,8 @@
 class Solution {
 public:
     string largestEven(string s) {
-        int n = s.size()-1;
-        while (n>=0 && s[n]=='1') {
+        while (!s.empty() && s.back()=='1') 
             s.pop_back();
-            n--;}
         return s;
     }
 };
