@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1688-count-of-matches-in-tournament](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1688-count-of-matches-in-tournament) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2864-maximum-odd-binary-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2864-maximum-odd-binary-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0844-backspace-string-compare) |
+| [1688-count-of-matches-in-tournament](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1688-count-of-matches-in-tournament) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2974-minimum-number-game) |
