@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3798-largest-even-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3798-largest-even-number) |
 ## Greedy
 |  |
 | ------- |
