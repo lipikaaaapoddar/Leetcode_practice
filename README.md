@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0844-backspace-string-compare) |
+| [1260-shift-2d-grid](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1688-count-of-matches-in-tournament) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0948-bag-of-tokens) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1402-reducing-dishes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1402-reducing-dishes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -443,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0278-first-bad-version) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
