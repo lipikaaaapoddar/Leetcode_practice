@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3842-toggle-light-bulbs](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3842-toggle-light-bulbs) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Sorting
 |  |
 | ------- |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Game Theory
 |  |
 | ------- |
