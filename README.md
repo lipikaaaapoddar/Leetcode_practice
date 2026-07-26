@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2864-maximum-odd-binary-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2864-maximum-odd-binary-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2974-minimum-number-game](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2974-minimum-number-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3842-toggle-light-bulbs](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3842-toggle-light-bulbs) |
 ## Heap (Priority Queue)
 |  |
