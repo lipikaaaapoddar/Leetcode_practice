@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0231-power-of-two) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0137-single-number-ii) |
