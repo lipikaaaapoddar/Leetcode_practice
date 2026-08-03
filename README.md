@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0069-sqrtx) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0203-remove-linked-list-elements) |
