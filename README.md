@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2864-maximum-odd-binary-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2864-maximum-odd-binary-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Game Theory
 |  |
