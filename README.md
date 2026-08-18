@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0367-valid-perfect-square) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1260-shift-2d-grid) |
 ## Trie
 |  |
