@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0575-distribute-candies) |
 | [0763-partition-labels](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0763-partition-labels) |
 | [0817-linked-list-components](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0817-linked-list-components) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0506-relative-ranks) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0506-relative-ranks) |
