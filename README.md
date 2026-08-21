@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0069-sqrtx) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1260-shift-2d-grid) |
 ## Trie
