@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2864-maximum-odd-binary-number) |
+| [3498-reverse-degree-of-a-string](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3842-toggle-light-bulbs](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3842-toggle-light-bulbs) |
 ## Array
