@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0137-single-number-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0229-majority-element-ii) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0141-linked-list-cycle) |
@@ -605,4 +608,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
