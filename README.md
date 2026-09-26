@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0228-summary-ranges](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0240-search-a-2d-matrix-ii) |
