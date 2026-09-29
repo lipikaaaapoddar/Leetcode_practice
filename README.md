@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0053-maximum-subarray) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
