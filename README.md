@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0925-long-pressed-name) |
+| [1021-remove-outermost-parentheses](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1544-make-the-string-great) |
@@ -654,5 +656,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
