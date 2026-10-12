@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2864-maximum-odd-binary-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2864-maximum-odd-binary-number) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3689-maximum-total-subarray-value-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3689-maximum-total-subarray-value-i) |
 ## Math
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2974-minimum-number-game](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3151-special-array-i) |
