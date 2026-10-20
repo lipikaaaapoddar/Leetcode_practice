@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3886-sum-of-sortable-integers](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3842-toggle-light-bulbs) |
+| [3886-sum-of-sortable-integers](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3886-sum-of-sortable-integers) |
 | [3913-sort-vowels-by-frequency](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3913-sort-vowels-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3886-sum-of-sortable-integers](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3886-sum-of-sortable-integers) |
 ## Game Theory
 |  |
 | ------- |
