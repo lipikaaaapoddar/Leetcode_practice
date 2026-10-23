@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0067-add-binary) |
+| [0301-remove-invalid-parentheses](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0301-remove-invalid-parentheses) |
 | [0409-longest-palindrome](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0443-string-compression) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0301-remove-invalid-parentheses) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
