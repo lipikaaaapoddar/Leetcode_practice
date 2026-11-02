@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0836-rectangle-overlap) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/0506-relative-ranks) |
