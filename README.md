@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3871-count-commas-in-range-ii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3842-toggle-light-bulbs](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lipikaaaapoddar/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
